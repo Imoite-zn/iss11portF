@@ -39,7 +39,7 @@ const TAB_DATA = [
     id: "certifications",
     content: (
       <ul className="list-disc pl-2">
-        <li>Fullstack Web Developer</li>
+        <li>Fullstack Developer</li>
       </ul>
     ),
   },
@@ -102,3 +102,4 @@ const AboutSection = () => {
 };
 
 export default AboutSection;
+
